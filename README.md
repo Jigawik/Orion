@@ -1,5 +1,4 @@
-Project: SKILL
-code-name: ORION
+Project: SKILL V0.1 :: code-name: ORION
 -----
 By: Dustin Saunders & Ian Garvey
 
